@@ -1,0 +1,9 @@
+C:\Users\nusha\source\repos\dyFaceClient\bin\Debug\netstandard1.4\dyFaceClient.deps.json
+C:\Users\nusha\source\repos\dyFaceClient\bin\Debug\netstandard1.4\dyFaceClient.dll
+C:\Users\nusha\source\repos\dyFaceClient\bin\Debug\netstandard1.4\dyFaceClient.pdb
+C:\Users\nusha\source\repos\dyFaceClient\obj\Debug\netstandard1.4\dyFaceClient.csprojAssemblyReference.cache
+C:\Users\nusha\source\repos\dyFaceClient\obj\Debug\netstandard1.4\dyFaceClient.csproj.CoreCompileInputs.cache
+C:\Users\nusha\source\repos\dyFaceClient\obj\Debug\netstandard1.4\dyFaceClient.AssemblyInfoInputs.cache
+C:\Users\nusha\source\repos\dyFaceClient\obj\Debug\netstandard1.4\dyFaceClient.AssemblyInfo.cs
+C:\Users\nusha\source\repos\dyFaceClient\obj\Debug\netstandard1.4\dyFaceClient.dll
+C:\Users\nusha\source\repos\dyFaceClient\obj\Debug\netstandard1.4\dyFaceClient.pdb

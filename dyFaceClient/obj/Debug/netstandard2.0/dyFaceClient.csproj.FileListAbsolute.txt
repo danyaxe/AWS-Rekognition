@@ -1,0 +1,4 @@
+C:\Users\nusha\source\repos\dyFaceClient\obj\Debug\netstandard2.0\dyFaceClient.csprojAssemblyReference.cache
+C:\Users\nusha\source\repos\dyFaceClient\obj\Debug\netstandard2.0\dyFaceClient.csproj.CoreCompileInputs.cache
+C:\Users\nusha\source\repos\dyFaceClient\obj\Debug\netstandard2.0\dyFaceClient.AssemblyInfoInputs.cache
+C:\Users\nusha\source\repos\dyFaceClient\obj\Debug\netstandard2.0\dyFaceClient.AssemblyInfo.cs

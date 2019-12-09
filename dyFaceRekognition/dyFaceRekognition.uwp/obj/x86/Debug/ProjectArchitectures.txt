@@ -1,0 +1,1 @@
+C:\Users\nusha\source\repos\dyFaceRekognition\dyFaceRekognition.uwp\dyFaceRekognition.uwp.csproj;x86

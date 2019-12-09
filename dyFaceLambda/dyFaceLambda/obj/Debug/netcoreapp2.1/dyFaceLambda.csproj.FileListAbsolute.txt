@@ -1,0 +1,11 @@
+C:\Users\nusha\source\repos\dyFaceLambda\dyFaceLambda\bin\Debug\netcoreapp2.1\dyFaceLambda.deps.json
+C:\Users\nusha\source\repos\dyFaceLambda\dyFaceLambda\bin\Debug\netcoreapp2.1\dyFaceLambda.runtimeconfig.json
+C:\Users\nusha\source\repos\dyFaceLambda\dyFaceLambda\bin\Debug\netcoreapp2.1\dyFaceLambda.runtimeconfig.dev.json
+C:\Users\nusha\source\repos\dyFaceLambda\dyFaceLambda\bin\Debug\netcoreapp2.1\dyFaceLambda.dll
+C:\Users\nusha\source\repos\dyFaceLambda\dyFaceLambda\bin\Debug\netcoreapp2.1\dyFaceLambda.pdb
+C:\Users\nusha\source\repos\dyFaceLambda\dyFaceLambda\obj\Debug\netcoreapp2.1\dyFaceLambda.csprojAssemblyReference.cache
+C:\Users\nusha\source\repos\dyFaceLambda\dyFaceLambda\obj\Debug\netcoreapp2.1\dyFaceLambda.csproj.CoreCompileInputs.cache
+C:\Users\nusha\source\repos\dyFaceLambda\dyFaceLambda\obj\Debug\netcoreapp2.1\dyFaceLambda.AssemblyInfoInputs.cache
+C:\Users\nusha\source\repos\dyFaceLambda\dyFaceLambda\obj\Debug\netcoreapp2.1\dyFaceLambda.AssemblyInfo.cs
+C:\Users\nusha\source\repos\dyFaceLambda\dyFaceLambda\obj\Debug\netcoreapp2.1\dyFaceLambda.dll
+C:\Users\nusha\source\repos\dyFaceLambda\dyFaceLambda\obj\Debug\netcoreapp2.1\dyFaceLambda.pdb
